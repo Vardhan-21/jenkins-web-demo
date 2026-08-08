@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Jenkins CI/CD Demo On Tomcat</title>
+    <title>Jenkins CI/CD Demo/title>
 </head>
 <body style="font-family: Arial; text-align:center; margin-top:100px;">
     <h1>🚀 Jenkins + Maven + Tomcat</h1>
